@@ -1,0 +1,10 @@
+
+
+Justificatif du temps de test: 
+-> j'ai depassé le temps parce que j'avais juste un probléme de plantage de ma machine apres redemarrage automatique
+
+Sinon le test n'est pas compliqué 
+
+-> concernant les points bonus : je pourrais bien mettre en place les systeme de recherche , ou de suppression.
+
+-> j'ai par contre mis en place une interceptors axios qui permet d'envoyer le token à chaque requéte .
