@@ -8,3 +8,17 @@ Sinon le test n'est pas compliqué
 -> concernant les points bonus : je pourrais bien mettre en place les systeme de recherche , ou de suppression.
 
 -> j'ai par contre mis en place une interceptors axios qui permet d'envoyer le token à chaque requéte .
+
+
+
+Installation:
+
+cd back 
+  npm i
+  npm start
+
+cd front
+  npm i
+  npm run dev
+
+PORT_BACK = 3000
